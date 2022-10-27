@@ -1,6 +1,6 @@
 # Práctica PRO II [ Evaluator ]
 
-REPO de la práctica de sobre modularidad de PRO2.
+REPO de la práctica sobre modularidad de PRO2.
 
 La plataforma EVALUATOR integra una colección de problemas de programación,
 un repositorio de sesiones compuestas por problemas de dicha colección, un conjunto
